@@ -37,3 +37,4 @@ jobs:
           SLACK_CHANNEL: #logs
           SLACK_COLOR: ${{ job.status }}
           SLACK_TITLE: erik.hedberg.at deployment
+          MSG_MINIMAL: commit
