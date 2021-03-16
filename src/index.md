@@ -11,3 +11,4 @@ En frilansande webbutvecklare.
 
 - [erik@hedberg.at](mailto:erik@hedberg.at)
 - [GitHub](https://www.github.com/gish)
+- [LinkedIn](https://www.linkedin.com/in/erikhedberg/)
