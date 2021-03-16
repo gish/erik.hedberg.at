@@ -1,3 +1,12 @@
 html {
   line-height: 1.25em;
 }
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #121212;
+    color: rgba(255, 255, 255, 0.87);
+  }
+  a {
+    color: rgba(255, 255, 255, 0.6);
+  }
+}
