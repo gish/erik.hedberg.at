@@ -29,3 +29,11 @@ jobs:
             cd ~/www/erik.hedberg.at
             git pull --force origin main
             ./build.sh
+      - uses: actions/checkout@v2
+      - name: Slack Notification
+        uses: rtCamp/action-slack-notify@v2
+        env:
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+          SLACK_CHANNEL: #logs
+          SLACK_COLOR: ${{ job.status }}
+          SLACK_TITLE: erik.hedberg.at deployment
