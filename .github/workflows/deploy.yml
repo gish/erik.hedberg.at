@@ -21,7 +21,8 @@ jobs:
       - name: Updating website.
         uses: appleboy/ssh-action@master
         with:
-          host: erik.hedberg.at
+          host: ${{ secrets.SSH_HOST }}
+          port: ${{ secrets.SSH_PORT }}
           username: github
           key: ${{ secrets.SSH_KEY }}
           script: |
