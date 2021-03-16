@@ -4,8 +4,8 @@ En frilansande webbutvecklare.
 
 ## Projekt
 
-- [Sourdough Engineer](https://www.sourdoughengineer.com) - receptsida för mina surdegsbröd
-- [Cheerful Coders AB](https://www.cheerfulcoders.se) - mitt bolag för frilansverksamheten
+- [Sourdough Engineer](https://sourdoughengineer.com) - receptsida för mina surdegsbröd
+- [Cheerful Coders AB](https://cheerfulcoders.se) - mitt bolag för frilansverksamheten
 
 ## Kontakt
 
