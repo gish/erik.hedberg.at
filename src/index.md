@@ -9,7 +9,7 @@ En frilansande webbutvecklare.
 
 ## Blogg
 
-- [Hur jag har automatiserat min lista med läsvärda artiklar](blog/hur-jag-har-automatiserat-min-lista-med-lasvarda-artiklar.html)
+- [Hur jag har automatiserat min lista med läsvärda artiklar](blog/20210321-hur-jag-har-automatiserat-min-lista-med-lasvarda-artiklar.html)
 
 ## Kontakt
 
