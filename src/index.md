@@ -1,6 +1,6 @@
 ## Erik Hedberg
 
-En frilansande webbutvecklare.
+En frilansande webbutvecklare som gillar god mat och att lyfta tunga saker.
 
 ## Projekt
 
