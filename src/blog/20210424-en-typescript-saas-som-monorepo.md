@@ -1,5 +1,7 @@
 # En TypeScript-SaaS som monorepo
 
+_Publicerat 2021-04-24_
+
 För projektet [Enkla Kvitton](http://enklakvitton.se/), har jag valt att testa monorepo-arkitekturen. Enkla Kvitton är en webapp för redovisning av kvitton.
 
 Här kommer en lista över de saker som jag tycker är utmärkande för den arkitekturen. Mycket är nog detsamma för andra monorepon. Vad vet jag? Det här är hittills mitt första och enda projekt.
