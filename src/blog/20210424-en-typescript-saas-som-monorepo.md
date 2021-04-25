@@ -6,7 +6,7 @@ För projektet [Enkla Kvitton](http://enklakvitton.se/), har jag valt att testa 
 
 Här kommer en lista över de saker som jag tycker är utmärkande för den arkitekturen. Mycket är nog detsamma för andra monorepon. Vad vet jag? Det här är hittills mitt första och enda projekt.
 
-Inledningsvis kan det vara bra att veta det är ett system som består av ett API och två klienter, samt ett schemalagt rapporteringsjobb. Den ena klienten är appen för att redovisa kvittot och den andra ett supportverktyg. Allt är skrivet i TypesScript.
+Inledningsvis kan det vara bra att veta det är ett system som består av ett API och två klienter, samt ett schemalagt rapporteringsjobb. Den ena klienten är appen för att redovisa kvittot och den andra ett supportverktyg. Allt är skrivet i TypesScript. Repositoryt är ett privat repo på GitHub.
 
 ## Samma beroenden - samma uppgraderingar
 
@@ -37,3 +37,13 @@ Som hängslen och livrem kör GitHub en rudimentär check i CI. Det ser till att
 ## Det var lite klurigt att välja verktyg
 
 Min approach brukar vara "implementation före analys", när det tillåter. Som verktyg för monorepo började jag med [Lerna](https://github.com/lerna/lerna). Jag hade hört gott om det och alla krav verkade uppfyllas. Men när Dependabot ville blanda sig in i leken (och jag ovillkorligen vill ha den tjänsten för TypeScript-projekt) stötte jag på patrull. Tydligen fanns det inte stöd hos Dependabot för Lerna. Därför fick jag tänka om. Som trogen npm-användare blev det till att istället använda yarn. För ett år sedan hade npm inte samma workspace-feature som yarn. Det tog en dag att strukturera om projektet, få deploys och GitHub actions på plats. Det svåraste var att hitta ett buildpack för Heroku som passade. Där fick jag forka ett befintligt och lägga till byggsteg för de delade paketen.
+
+## Kör allt lokalt med en docker-compose
+
+Följden av att ha allt samlat i ett repository, blir att jag kan köra alla tjänster och appar lokalt i Docker med en enda docker-compose-fil. Miljövariablerna specas i en lokal .env-fil och propageras till applikationerna, via docker-compose.
+
+I tidigare projekt har jag maintainat konfigurationen för Docker i varje repository, med en docker-compose i ett eget.
+
+## Det här kommer fortsätta med
+
+För framtida projekt kommer jag fortsätta på inslagen väg. Det har varit utomordentligt enkelt att göra uppdateringar, med liten risk för buggar. Här är det förstås viktigt att veta att all kod varit skriven i samma språk. Hur man ska göra med en fruktsallad av språk, har jag inte klurat på än.
