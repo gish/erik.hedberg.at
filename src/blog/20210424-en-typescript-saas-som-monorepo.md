@@ -44,6 +44,6 @@ Följden av att ha allt samlat i ett repository, blir att jag kan köra alla tj�
 
 I tidigare projekt har jag maintainat konfigurationen för Docker i varje repository, med en docker-compose i ett eget.
 
-## Det här kommer fortsätta med
+## Det här kommer jag att fortsätta med
 
 För framtida projekt kommer jag fortsätta på inslagen väg. Det har varit utomordentligt enkelt att göra uppdateringar, med liten risk för buggar. Här är det förstås viktigt att veta att all kod varit skriven i samma språk. Hur man ska göra med en fruktsallad av språk, har jag inte klurat på än.
