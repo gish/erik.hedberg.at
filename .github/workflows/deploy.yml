@@ -18,18 +18,18 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Updating website.
-        uses: appleboy/ssh-action@master
+      - uses: actions/checkout@v2
+      - name: Build website
+        uses: ./
+      - name: copy
+        uses: appleboy/scp-action@master
         with:
+          username: github
           host: ${{ secrets.SSH_HOST }}
           port: ${{ secrets.SSH_PORT }}
-          username: github
           key: ${{ secrets.SSH_KEY }}
-          script: |
-            cd ~/www/erik.hedberg.at
-            git pull --force origin main
-            ./build.sh
-      - uses: actions/checkout@v2
+          source: "dest"
+          target: "/home/github/www/erik.hedberg.at"
       - name: Slack Notification
         uses: rtCamp/action-slack-notify@v2
         env:
