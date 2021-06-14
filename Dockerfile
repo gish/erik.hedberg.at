@@ -11,5 +11,4 @@ WORKDIR /usr/bin
 RUN curl -s https://rgz.ee/bin/ssg6 > ssg6
 RUN curl -s https://rgz.ee/bin/Markdown.pl > Markdown.pl && chmod +x ssg6 Markdown.pl
 
-WORKDIR /app
 CMD ./build.sh
