@@ -6,7 +6,4 @@ RUN apt-get install -y \
     cpio\
     pandoc
 
-COPY bin/ssg6 /usr/local/bin/ssg6
-RUN chmod +x /usr/local/bin/ssg6
-
 CMD ./build.sh
