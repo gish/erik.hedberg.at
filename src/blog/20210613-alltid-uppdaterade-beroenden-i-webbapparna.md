@@ -1,3 +1,8 @@
+---
+title: Alltid uppdaterade beroenden i webapparna
+description: Här beskriver jag hur Dependabot sköter världens tråkigaste uppgift - att hålla webbapparna alltid uppdaterade med senaste versioner av beroenden.
+---
+
 # Alltid uppdaterade beroenden i webapparna
 
 _Publicerat 2021-06-13_

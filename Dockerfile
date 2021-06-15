@@ -4,11 +4,9 @@ RUN apt-get update
 RUN apt-get install -y \
     curl\
     cpio\
-    perl\
-    libdigest-md5-file-perl
+    pandoc
 
-WORKDIR /usr/bin
-RUN curl -s https://rgz.ee/bin/ssg6 > ssg6
-RUN curl -s https://rgz.ee/bin/Markdown.pl > Markdown.pl && chmod +x ssg6 Markdown.pl
+COPY bin/ssg6 /usr/local/bin/ssg6
+RUN chmod +x /usr/local/bin/ssg6
 
 CMD ./build.sh
