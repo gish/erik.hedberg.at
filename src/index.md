@@ -1,3 +1,8 @@
+---
+title: Erik Hedberg
+description: En frilansande webbutvecklare som gillar god mat och att lyfta tunga saker.
+---
+
 ## Erik Hedberg
 
 En frilansande webbutvecklare som gillar god mat och att lyfta tunga saker.
