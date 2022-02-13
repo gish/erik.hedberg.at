@@ -1,7 +1,4 @@
 #!/bin/bash
-mkdir .build
-./bin/ssg6 src .build "Erik Hedberg" https://erik.hedberg.at
-if test -d "dest"; then
-  mv dest .old
-fi
-mv .build dest && rm -rf .old
+rm -rf dest
+mkdir dest
+./bin/ssg6 src dest "Erik Hedberg" https://erik.hedberg.at
