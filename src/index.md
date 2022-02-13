@@ -14,6 +14,7 @@ En frilansande webbutvecklare som gillar god mat och att lyfta tunga saker.
 
 ## Blogg
 
+- 2022-02-13: [Mina principer kring React-projekt i Typescript](blog/20220213-mina-principer-kring-react-projekt-i-typescript.html)
 - 2021-06-13: [Alltid uppdaterade beroenden i webbapparna](blog/20210613-alltid-uppdaterade-beroenden-i-webbapparna.html)
 - 2021-04-24: [En TypeScript-SaaS som monorepo](blog/20210424-en-typescript-saas-som-monorepo.html)
 - 2021-03-25: [Mina favoritrecept på havregryn, ägg och kvarg](blog/20210325-mina-favoritrecept-pa-havregryn-agg-och-kvarg.html)
