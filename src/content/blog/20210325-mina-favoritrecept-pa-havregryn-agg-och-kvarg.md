@@ -1,4 +1,7 @@
-# Mina favoritrecept på havregryn, ägg och kvarg
+---
+title: Mina favoritrecept på havregryn, ägg och kvarg
+date: "2021-03-25"
+---
 
 _Publicerat 2021-03-25_
 
