@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://erik.hedberg.at/sitemap.xml

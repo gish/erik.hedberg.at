@@ -1,4 +1,7 @@
-# Mina principer kring React-projekt i TypeScript
+---
+title: Mina principer kring React-projekt i TypeScript
+date: 2022-02-13
+---
 
 _Publicerat 2022-02-13_
 

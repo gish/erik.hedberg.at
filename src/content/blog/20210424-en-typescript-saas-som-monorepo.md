@@ -1,4 +1,7 @@
-# En TypeScript-SaaS som monorepo
+---
+title: En TypeScript-SaaS som monorepo
+date: "2021-04-24"
+---
 
 _Publicerat 2021-04-24_
 

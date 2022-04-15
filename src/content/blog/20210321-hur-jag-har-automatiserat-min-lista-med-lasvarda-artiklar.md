@@ -1,4 +1,7 @@
-# Hur jag har automatiserat min lista med läsvärda artiklar
+---
+title: "Hur jag har automatiserat min lista med läsvärda artiklar"
+date: "2021-03-21"
+---
 
 _Publicerat 2021-03-21_
 
