@@ -3,3 +3,4 @@ languageCode = "en-us"
 title = "Erik Hedberg"
 theme = "erik.hedberg.at"
 enableRobotsTXT = true
+uglyurls = true
