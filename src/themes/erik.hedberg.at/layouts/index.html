@@ -3,12 +3,11 @@
 <h2>Blogg</h2>
 <ul>
   {{ range (where $.Site.Pages ".Kind" "page") }}
-    <li>
-      {{ .Date.Local.Format "2006-01-02"}}: <a href="{{ .Permalink }}/index.html">{{ .Title }}</a>
-    </li>
+  <li>
+    {{ .Date.Local.Format "2006-01-02"}}:
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+  </li>
   {{ end }}
 </ul>
 
-{{ .Content }}
-
-{{ end }}
+{{ .Content }} {{ end }}
