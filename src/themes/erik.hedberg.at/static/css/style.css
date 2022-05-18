@@ -12,6 +12,7 @@ body {
   line-height: 1.6;
   color: var(--color);
   padding: 0 16px;
+  background: rgb(246, 246, 239);
 }
 
 h1,
