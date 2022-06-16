@@ -3,3 +3,4 @@ terraform.tfstate
 terraform.tfstate.backup
 .terraform*
 src/public
+.hugo_build.lock
