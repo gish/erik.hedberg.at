@@ -10,4 +10,4 @@ draft: true
 1. Typa alltid allting. Ingen kommer tacka dig för att du "i framtiden" kommer typa det som är otypat.
 1. Gör operations till en så liten kostnad som möjligt. Funkar det att köra tjänsten på en VPS istället för i ett kubernets-kluster - gör det.
 1. GitHub actions som CI fungerar tillräckligt bra för att man ska behöva mangera ett eget.
-1. 
+1. Utvecklare i ett produkt-team ska sträva efter att besitta kompetens om hela stacken. Är det svårt bör man tänka efter om stacken är för komplex.
