@@ -13,7 +13,7 @@ Här kommer en löpande brain-dump av vad jag tar med mig från min karriär som
 1. Om data inte behöver muteras, gör inte det. Skapa ny data och använd den istället. Då undviker du sidoeffekter.
 1. Typa alltid allting. Ingen kommer tacka dig för att du "i framtiden" kommer typa det som är otypat.
 1. GitHub Actions som CI fungerar tillräckligt bra för att man inte ska behöva sätta upp egen CI-miljö.
-1. Pipelines ska vara snabba. Ingen utvecklare vill vänta på att få igenom sin kodändring.
+1. Pipelines ska vara snabba. Ingen utvecklare vill behöva vänta på att få igenom sin kodändring.
 
 ## Organisation
 1. Gör ops till en så liten kostnad som möjligt. Funkar det att köra tjänsten på en VPS istället för i ett Kubernets-kluster - gör det.
