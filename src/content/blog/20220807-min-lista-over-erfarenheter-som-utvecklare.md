@@ -18,4 +18,4 @@ Här kommer en löpande brain-dump av vad jag tar med mig från min karriär som
 ## Organisation
 1. Gör ops till en så liten kostnad som möjligt. Funkar det att köra tjänsten på en VPS istället för i ett Kubernets-kluster - gör det.
 1. Utvecklare i ett produkt-team ska sträva efter att besitta kompetens om hela stacken. Är det svårt bör man tänka efter om stacken är för komplex.
-1. Det är alltid värt tiden att med hela teamet (åtminstone de tillgängliga) diskutera hur en user story kan lösas. I många fall blir slutsatsen en enklare lösning.
+1. Det är alltid värt tiden att med hela teamet (åtminstone de som är tillgängliga) diskutera hur en user story kan lösas. I många fall blir slutsatsen en enklare lösning.
