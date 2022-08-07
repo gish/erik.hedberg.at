@@ -2,6 +2,7 @@
 title: "Min lista över erfarenheter som utvecklare"
 date: "2022-08-07"
 draft: false
+description: "Här kommer en löpande brain-dump av vad jag tar med mig från min karriär som mjukvaruutvecklare."
 ---
 
 Här kommer en löpande brain-dump av vad jag tar med mig från min karriär som mjukvaruutvecklare.
