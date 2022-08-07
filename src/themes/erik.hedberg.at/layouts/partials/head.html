@@ -4,4 +4,12 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <meta name="color-scheme" content="light dark" />
+  {{ if .Page.Title }}
+  <meta name="title" content="{{.Page.Title}}" />
+  <meta name="og:title" content="{{.Page.Title}}" />
+  {{ end }}
+  {{ if .Page.Description }}
+    <meta name="description" content="{{.Page.Description}}" />
+    <meta name="og:description" content="{{.Page.Description}}" />
+  {{ end }}
 </head>
