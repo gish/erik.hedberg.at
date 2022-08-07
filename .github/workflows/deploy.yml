@@ -28,6 +28,16 @@ jobs:
           source_dir: "./src/public"
           destination_dir: ""
 
+      - name: invalidate CloudFront
+        uses: chetan/invalidate-cloudfront-action@v2
+        env:
+          DISTRIBUTION: ${{ secrets.CLOUDFRONT_DISTRIBUTION }}
+          PATHS: "/index.html"
+          AWS_REGION: "us-east-1"
+          AWS_ACCESS_KEY_ID: ${{ secrets.IAM_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.IAM_SECRET_ACCESS_KEY }}
+
+
       - name: Slack Notification
         uses: rtCamp/action-slack-notify@v2
         env:
