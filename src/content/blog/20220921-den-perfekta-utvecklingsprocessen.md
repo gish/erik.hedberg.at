@@ -13,7 +13,7 @@ Den ska primärt underlätta utveckling.
 Den perfekta utvecklingsprocessen ska inte utformas för att underlätta administration.
 Administration är sekundärt. Om ens det.
 
-## Den perfekta processen
+## Processen
 
 Det finns en hög med lappar.
 Högen kallas _Inkorg_.
