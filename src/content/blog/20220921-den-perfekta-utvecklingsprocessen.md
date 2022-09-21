@@ -34,8 +34,8 @@ Till slut är alla lapparna färdiga. Då har värdet skapats. Teamet kan ta en 
 
 ## Regler
 
-- En lapp i _Att göra_ ska aldrig behöva estimeras. Teamet ska ha kompetens nog att bryta ner lappar i arbete som tar 1-2 dagar att utföra.
-- Om en lapp har ett hinder för att kunna utföras, är reduceringen av hindret teamets högsta prioritet.
+- Om en lapp har ett hinder för att kunna utföras, är det högsta prioritet att ta bort hindret.
 - En lapp får aldrig flyttas från _Att göra_ till _Inkorg_.
-- En lapp får aldrig flyttas från _Pågående_ till _Att göra_.
+- En lapp får aldrig flyttas tillbaka från _Pågående_ till _Att göra_.
 - Maximalt en lapp får finnas i _Att göra_ åt gången.
+- En lapp i _Att göra_ ska aldrig behöva estimeras. Teamet ska ha kompetens nog att bryta ner lappar i arbete som tar 1-2 dagar att utföra.
