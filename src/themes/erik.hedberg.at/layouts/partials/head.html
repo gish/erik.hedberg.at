@@ -11,5 +11,6 @@
   {{ if .Page.Description }}
     <meta name="description" content="{{.Page.Description}}" />
     <meta name="og:description" content="{{.Page.Description}}" />
+    <link rel="alternate" type="application/rss+xml" href="{{.Site.BaseURL }}index.xml" title="{{ .Site.Title }}">
   {{ end }}
 </head>
