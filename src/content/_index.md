@@ -14,7 +14,7 @@ En frilansande mjukvaruutvecklare som gillar god mat och att lyfta tunga saker.
 
 - [Kodsnack 491 - Silverkulor hela vägen, med Niclas Edenvin, Erik Hedberg, och Adam Sernheim](https://kodsnack.se/491/)
 - [Kodsnack 449 - Man ska börja med att sluta, med Anna Leijon, Wilhelm Eklund, och Erik Hedberg](https://kodsnack.se/449/)
-- [Kodsnack 414 - Maskhålet i rymden, med Wilhelm Eklund, Erik Hedberg, Anna Leijon, och Lars WikmanKodsnack 414 - Maskhålet i rymden, med Wilhelm Eklund, Erik Hedberg, Anna Leijon, och Lars Wikman](https://kodsnack.se/414/)
+- [Kodsnack 414 - Maskhålet i rymden, med Wilhelm Eklund, Erik Hedberg, Anna Leijon, och Lars WikmanKodsnack](https://kodsnack.se/414/)
 
 ## Kontakt
 
