@@ -1,7 +1,7 @@
 ---
 title: "Retrospektiv utan krav"
 date: "2023-04-01"
-description: "Retrospektiv ska vara ett kravlöst möte där man får hissa och dissa. Mer änså behöver det inte vara."
+description: "Retrospektiv ska vara ett kravlöst möte där man får hissa och dissa. Mer än så behöver det inte vara."
 ---
 
 _Publicerat 2023-04-01_
