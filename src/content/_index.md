@@ -11,6 +11,7 @@ En frilansande mjukvaruutvecklare som gillar god mat och att lyfta tunga saker.
 - [Cheerful Coders AB](https://cheerfulcoders.se) - mitt bolag för frilansverksamheten
 
 ## I media
+- [Kompilator 063 - Livets getingmidja med Erik Hedberg](https://kompilator.se/063)
 - [Kompilator 048 - Mer än korvstoppning med Erik Hedberg](https://kompilator.se/048)
 - [Kodsnack 491 - Silverkulor hela vägen, med Niclas Edenvin, Erik Hedberg, och Adam Sernheim](https://kodsnack.se/491/)
 - [Kodsnack 449 - Man ska börja med att sluta, med Anna Leijon, Wilhelm Eklund, och Erik Hedberg](https://kodsnack.se/449/)
