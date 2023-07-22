@@ -7,8 +7,9 @@ En frilansande mjukvaruutvecklare som gillar god mat och att lyfta tunga saker.
 
 ## Projekt
 
-- [Sourdough Engineer](https://sourdoughengineer.com) - receptsida för mina surdegsbröd
 - [Cheerful Coders AB](https://cheerfulcoders.se) - mitt bolag för frilansverksamheten
+- [Design till kod](https://designkod.se) - Design till kod till fast pris
+- [Sourdough Engineer](https://sourdoughengineer.com) - receptsida för mina surdegsbröd
 
 ## I media
 - [Kompilator 063 - Livets getingmidja med Erik Hedberg](https://kompilator.se/063)
