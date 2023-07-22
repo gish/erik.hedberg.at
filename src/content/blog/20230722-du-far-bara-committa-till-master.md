@@ -3,6 +3,7 @@ title: "Du får bara committa till master"
 date: "2023-07-22"
 description: "Mina tankar om fördelarna med att skippa feature-brancher och bara committa till master."
 images: ["/images/20230722-du-far-bara-committa-till-master.png"]
+draft: true
 ---
 
 _Publicerat 2023-07-22_
