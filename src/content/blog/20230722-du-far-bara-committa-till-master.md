@@ -3,7 +3,6 @@ title: "Du får bara committa till main"
 date: "2023-07-22"
 description: "Mina tankar om fördelarna med att skippa feature-brancher och bara committa till main."
 images: ["/images/20230722-du-far-bara-committa-till-main.png"]
-draft: true
 ---
 
 _Publicerat 2023-07-22_
