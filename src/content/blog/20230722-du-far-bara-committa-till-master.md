@@ -23,4 +23,4 @@ Fördelen med små commits är att ni också kan be en till teammedlem om feedba
 
 En invändning kan vara att ni är ett stort team. Många vill pusha till main. Om pipelinen för main blir röd är den blockad. Ingen kan deploya. Världen går under. Det är absolut viktigt att hålla main grön. Det är allas prioritet. Har man pushat får man också vänta på resultatet och åtgärda ett eventuellt fel. Huvudproblemet är dock att det jobbas med för många saker parallellt. Teamet är för stort eller grupperna som skriver för små. En bra grej är att sätta upp och respektera en WIP-limit. Prata om det på retron och justera utifrån hur ni jobbar.
 
-Det här är ett arbetssätt som jag tycker är eftersträvansvärt. Min åsikt är att brancher är av ondo. Det kostar att skapa, underhålla och integrera dem i huvudbranchen. Dessutom blir arbetet isolerat från resten av teamet.
+Det här är ett arbetssätt som jag tycker är eftersträvansvärt. Nu slipper du kostnaden för feature-brancher. Det kostar att skapa, underhålla och integrera dem i huvudbranchen. Dessutom blir inte arbetet isolerat från resten av teamet.
