@@ -11,6 +11,8 @@ Utgå från att du bara får göra commits till ditt projekts huvudbranch main. 
 
 Nu kan du helt plötsligt inte göra pull requests. Hur ska du nu få feedback på din kod från dina teammedlemmar? Hur ska du veta om testerna, som körs vid pull requests, går igenom? All trygghet försvinner. Eller?
 
+Det här fenomenet kallas [trunk based development](https://trunkbaseddevelopment.com/) och är inte nytt under solen. Men jag har stött på många team där det här har varit helt främmande och ibland till och med skrämmande. Nu vill jag förklara dess fördelar.
+
 Du behöver inte få feedback på koden som är skriven. Den är billigare att få feedback på kod som kommer att skrivas. Sannolikheten att det blir rätt från början ökar. Hela teamet, eller delar, kan tillsammans planera den feature som ska skrivas. Vilka ändringar och tillägg behövs? Hur ska vi uttrycka dem? Hur omfattande planering som behövs är upp till teamets mognadsgrad.
 
 När koden skrivs kan det göras av samma delar av teamet.  En invändning till det kan vara att teamet har olika kompetenser. Ni är full stack. En person jobbar med backend, en annan sköter infrastrukturen och en tredje gör frontend. Vem vet, ni kanske är ett stort team med ytterligare kompetenser? Bra! Här finns ett ypperligt tillfälle att bli mer t-format. Teamet får en bred kompetens, där varje medlem också har en spets. Ni minskar buss-faktorn.
